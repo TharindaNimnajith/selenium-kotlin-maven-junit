@@ -1,1 +1,55 @@
-{"uuid":"26625c0d-8881-4af3-b9e6-ba3de67dba00","historyId":"ce4dc605fd8a9d6c511d8ac69655bc3a","testCaseId":"[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:navigationToAllTools()]","testCaseName":"navigationToAllTools()","fullName":"com.example.seleniumkotlinmavenjunit.MainPageTest.navigationToAllTools","labels":[{"name":"junit.platform.uniqueid","value":"[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:navigationToAllTools()]"},{"name":"host","value":"Tharinda"},{"name":"thread","value":"1236@Tharinda.main(1)"},{"name":"framework","value":"junit-platform"},{"name":"language","value":"java"},{"name":"package","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"},{"name":"testClass","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"},{"name":"testMethod","value":"navigationToAllTools"},{"name":"suite","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"}],"links":[],"name":"navigationToAllTools()","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673114409903,"stop":1673114412213}
+{
+  "uuid": "26625c0d-8881-4af3-b9e6-ba3de67dba00",
+  "historyId": "ce4dc605fd8a9d6c511d8ac69655bc3a",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:navigationToAllTools()]",
+  "testCaseName": "navigationToAllTools()",
+  "fullName": "com.example.seleniumkotlinmavenjunit.MainPageTest.navigationToAllTools",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:navigationToAllTools()]"
+    },
+    {
+      "name": "host",
+      "value": "Tharinda"
+    },
+    {
+      "name": "thread",
+      "value": "1236@Tharinda.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "navigationToAllTools"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    }
+  ],
+  "links": [],
+  "name": "navigationToAllTools()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1673114409903,
+  "stop": 1673114412213
+}

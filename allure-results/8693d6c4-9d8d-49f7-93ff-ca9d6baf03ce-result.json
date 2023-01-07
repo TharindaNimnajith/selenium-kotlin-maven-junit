@@ -1,1 +1,86 @@
-{"uuid":"8693d6c4-9d8d-49f7-93ff-ca9d6baf03ce","historyId":"43f83413031fefd8be2318fd37724dd3","testCaseId":"[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:toolsMenu()]","testCaseName":"toolsMenu()","fullName":"com.example.seleniumkotlinmavenjunit.MainPageTest.toolsMenu","labels":[{"name":"junit.platform.uniqueid","value":"[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:toolsMenu()]"},{"name":"host","value":"Tharinda"},{"name":"thread","value":"17312@Tharinda.main(1)"},{"name":"framework","value":"junit-platform"},{"name":"language","value":"java"},{"name":"package","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"},{"name":"testClass","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"},{"name":"testMethod","value":"toolsMenu"},{"name":"suite","value":"com.example.seleniumkotlinmavenjunit.MainPageTest"}],"links":[],"name":"toolsMenu()","status":"passed","stage":"finished","description":"","steps":[{"name":"$(\"open\") https://www.jetbrains.com/","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673114461548,"stop":1673114462817},{"name":"$(\"By.xpath: //div[@data-test='main-menu-item' and @data-test-marker = 'Developer Tools']\") click()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673114462818,"stop":1673114462917},{"name":"$(\"div[data-test='main-submenu']\") should be(visible)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673114462917,"stop":1673114462948}],"attachments":[],"parameters":[],"start":1673114461546,"stop":1673114462948}
+{
+  "uuid": "8693d6c4-9d8d-49f7-93ff-ca9d6baf03ce",
+  "historyId": "43f83413031fefd8be2318fd37724dd3",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:toolsMenu()]",
+  "testCaseName": "toolsMenu()",
+  "fullName": "com.example.seleniumkotlinmavenjunit.MainPageTest.toolsMenu",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.seleniumkotlinmavenjunit.MainPageTest]/[method:toolsMenu()]"
+    },
+    {
+      "name": "host",
+      "value": "Tharinda"
+    },
+    {
+      "name": "thread",
+      "value": "17312@Tharinda.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "toolsMenu"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.seleniumkotlinmavenjunit.MainPageTest"
+    }
+  ],
+  "links": [],
+  "name": "toolsMenu()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "$(\"open\") https://www.jetbrains.com/",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673114461548,
+      "stop": 1673114462817
+    },
+    {
+      "name": "$(\"By.xpath: //div[@data-test='main-menu-item' and @data-test-marker = 'Developer Tools']\") click()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673114462818,
+      "stop": 1673114462917
+    },
+    {
+      "name": "$(\"div[data-test='main-submenu']\") should be(visible)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673114462917,
+      "stop": 1673114462948
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1673114461546,
+  "stop": 1673114462948
+}
