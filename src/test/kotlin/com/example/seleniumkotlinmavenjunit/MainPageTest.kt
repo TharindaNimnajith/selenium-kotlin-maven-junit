@@ -3,19 +3,21 @@ package com.example.seleniumkotlinmavenjunit
 import com.codeborne.selenide.Condition.attribute
 import com.codeborne.selenide.Condition.visible
 import com.codeborne.selenide.Configuration
-import com.codeborne.selenide.Selectors.*
 import com.codeborne.selenide.Selenide
 import com.codeborne.selenide.Selenide.element
 import com.codeborne.selenide.Selenide.open
 import com.codeborne.selenide.logevents.SelenideLogger
 import io.qameta.allure.selenide.AllureSelenide
-import org.junit.jupiter.api.Assertions.*
-import org.junit.jupiter.api.*
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.BeforeAll
+import org.junit.jupiter.api.BeforeEach
+import org.junit.jupiter.api.Test
 
 class MainPageTest {
     private val mainPage = MainPage()
 
     companion object {
+        @JvmStatic
         @BeforeAll
         fun setUpAll() {
             Configuration.browserSize = "1280x800"
